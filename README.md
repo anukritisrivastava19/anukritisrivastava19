@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👋 Hi, I'm Anukriti Srivastava<br><br>🎓 Final-year B.Tech (CSE)<br>📊 Aspiring Data Analyst | AI Enthusiast | Data Science<br>💡 Interested in Data Analytics, Machine Learning, and Generative AI<br>🛠️ Python • SQL • Pandas • Excel • Streamlit <br>📌 Open to internships and entry-level opportunities
+👋 Hi, I'm Anukriti Srivastava<br><br>🎓 Final-year B.Tech (CSE)<br>📊 | AI Enthusiast | Data Science<br>💡 Interested in Data Analytics, Machine Learning, and Generative AI<br>🛠️ Python • SQL • Pandas • Excel • Streamlit <br>📌 Open to internships and entry-level opportunities
 
 
 # 💻 Tech Stack:
